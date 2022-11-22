@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 조성욱
+# 프론트엔드 개발자 조성욱
 
 
 ## 🛠 My Tech Stack 🛠
